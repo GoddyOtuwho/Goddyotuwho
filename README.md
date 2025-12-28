@@ -63,6 +63,7 @@ Python · SQL · GitHub Actions
 ## 🔹 Professional Focus
 
 - Senior / Principal **Solutions Architect**
+- Cloud & Security Architecture (Zero Trust, IAM, Governance)
 - Cloud & Data Platform Architecture
 - Enterprise & Banking-grade solutions
 - AI-enabled platforms
