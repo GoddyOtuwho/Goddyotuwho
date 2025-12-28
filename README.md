@@ -69,6 +69,15 @@ Python · SQL · GitHub Actions
 - Customer-facing technical leadership
 
 ---
+## 🔹 Why This Portfolio
+
+These projects demonstrate:
+- Practical application of **enterprise cloud architecture**
+- Ability to design **secure, scalable platforms**
+- Experience relevant to **banking, enterprise, and regulated environments**
+- Skills aligned with **Canada’s high-skill technology workforce needs**
+  
+--- 
 
 ## 📫 Connect With Me
 
