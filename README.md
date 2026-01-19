@@ -1,93 +1,56 @@
 ## # 👋 Hi, I’m Goddy Otuwho
-
-## Senior Cloud & Security Architect | Azure Solutions Architect Expert | PMP | AWS-CCP
-
-I design and deliver **secure, scalable, and AI-ready cloud platforms** for enterprise and regulated environments.  
-My work focuses on **Azure architecture, data & AI platforms, Zero Trust security, and enterprise transformation**.
-
----
-
-## 🔹 What I Do
-
-- Architect **enterprise Azure solutions** with security-by-design principles
-- Build **data & AI platforms** using Azure Databricks, Delta Lake, and Azure OpenAI
-- Design **Zero Trust and identity-driven architectures** (RBAC, Conditional Access)
-- Support **regulated and enterprise workloads** with compliance-ready patterns
-- Bridge **business strategy and technical execution** in customer-facing roles
-
----
-
-## 🔹 Featured Projects
-
-### 🏗 Secure Azure Databricks Lakehouse Architecture  
-Enterprise-grade Lakehouse reference architecture using **Azure Databricks and Delta Lake**, supporting:
-- End-to-end data ingestion and transformation  
-- Governance, security, and access controls  
-- Analytics and AI-ready workloads  
-
-**Tech:** Azure Databricks · Delta Lake · Azure Storage · SQL · Python
-
----
-
-### 🧠 AI-Powered Resume ↔ Job Matching Platform  
-Proof-of-concept demonstrating **AI-driven semantic matching** between resumes and job descriptions using:
-- Azure OpenAI  
-- Azure Cognitive Search  
-- Cloud-native architecture patterns  
-
-**Tech:** Azure OpenAI · Cognitive Search · Python
-
----
-
-### 🌐 Cloud Automation & Web Projects  
-Lightweight cloud-native projects demonstrating:
-- Secure hosting and redirection patterns  
-- Automation-first design  
-- Practical real-world use cases  
-
----
-
-## 🔹 Core Technologies
-
-**Cloud & Data**  
-Azure · Azure Databricks · Delta Lake · Azure OpenAI  
-
-**Security & Architecture**  
-Zero Trust · Identity & Access Management · RBAC · Governance  
-
-**Dev & Automation**  
-Python · SQL · GitHub Actions  
-
----
-
-## 🔹 Professional Focus
-
-- Senior / Principal **Solutions Architect**
-- Cloud & Security Architecture (Zero Trust, IAM, Governance)
-- Cloud & Data Platform Architecture
-- Enterprise & Banking-grade solutions
-- AI-enabled platforms
-- Customer-facing technical leadership
-
----
-## 🔹 Why This Portfolio
-
+Cloud Solution Architect (Azure) | Enterprise Solutions
+Across identity, security, governance—bridging business outcomes with technical execution.
+I design and guide the delivery of secure, scalable, and AI-ready Azure platforms for enterprise and regulated environments. My work focuses on enterprise solution architecture, helping organizations adopt cloud, data, and AI platforms with security and governance embedded by design.
+🔹 What I Do
+Architect enterprise Azure solutions, guiding design decisions across identity, security, data, and platform layers
+Lead solution architecture for data & AI platforms, including Azure Databricks and Azure OpenAI
+Design identity-first and Zero Trust–aligned architectures that scale across enterprise environments
+Enable regulated and enterprise workloads using governance and compliance-ready cloud patterns
+Bridge business strategy and technical execution in customer-facing architecture and advisory roles
+🔹 Featured Projects
+🏗 Secure Azure Databricks Lakehouse Architecture
+Enterprise-grade Lakehouse reference architecture demonstrating:
+End-to-end data ingestion and transformation
+Governance, security, and access control patterns
+Analytics- and AI-ready workloads
+Tech: Azure Databricks · Delta Lake · Azure Storage · SQL · Python
+🧠 AI-Powered Resume ↔ Job Matching Platform
+AI-driven semantic matching proof-of-concept using:
+Azure OpenAI
+Azure Cognitive Search
+Cloud-native Azure architecture patterns
+Tech: Azure OpenAI · Cognitive Search · Python
+🌐 Cloud Automation & Web Projects
+Practical cloud-native projects showcasing:
+Secure hosting and redirection patterns
+Automation-first architecture
+Real-world enterprise use cases
+🔹 Core Architecture Domains
+Enterprise Cloud & Data
+Azure · Azure Databricks · Delta Lake · Azure OpenAI
+Identity, Security & Governance
+Zero Trust · Identity & Access Management · RBAC · Governance
+Automation & Delivery
+Python · SQL · GitHub Actions
+🔹 Professional Focus
+Cloud Solution Architect / Enterprise Solutions Architect
+Enterprise Azure & Platform Architecture
+Secure Cloud & Identity Architecture
+Data & AI Platform Architecture
+Regulated, banking, and enterprise environments
+Customer-facing technical leadership and advisory
+🔹 Why This Portfolio
 These projects demonstrate:
-- Practical application of **enterprise cloud architecture**
-- Ability to design **secure, scalable platforms**
-- Experience relevant to **banking, enterprise, and regulated environments**
-- Skills aligned with **Canada’s high-skill technology workforce needs**
-  
---- 
+Practical application of enterprise cloud solution architecture
+Ability to design secure, scalable, production-ready platforms
+Experience relevant to banking, enterprise, and regulated environments
+Skills aligned with Canada’s high-skill technology workforce needs
+📫 Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/goddyotuwho
+📍 Location: Ontario, Canada 🇨🇦
+⭐ Explore the repositories below to see real-world enterprise cloud architectures in action.
 
-## 📫 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/goddyotuwho  
-- **Location:** Ontario, Canada 🇨🇦  
-
----
-
-⭐ Feel free to explore the repositories below to see real-world architecture and cloud solutions in action.
 
 <!--
 **GoddyOtuwho/Goddyotuwho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
